@@ -661,12 +661,12 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 208,
-                "y": 396
+                "x": 366,
+                "y": 634
               },
               "target": {
-                "x": 818,
-                "y": 576
+                "x": 567,
+                "y": 615
               },
               "vertices": [],
               "id": "0dbb8115-ee01-4cba-b1b8-932bba72c01a",
@@ -703,6 +703,22 @@
               "vertices": [],
               "id": "f5224a66-1c55-4e90-8b45-8ea2c66fa695",
               "z": 23,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 261,
+                "y": 690
+              },
+              "target": {
+                "x": 128,
+                "y": 519
+              },
+              "vertices": [],
+              "id": "0367f049-e07d-400e-8566-c020f128fe07",
+              "z": 24,
               "attrs": {}
             }
           ]
