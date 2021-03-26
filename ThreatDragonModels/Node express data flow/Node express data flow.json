@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Node express data flow"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "main",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
